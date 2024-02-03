@@ -1,2 +1,2 @@
 # CONSCISE ROADMAP TO SMART CONTRACT SECURITY
-> Provide by @ShieldifyAnon
+> Provided by @ShieldifyAnon, edited by @KaePee
